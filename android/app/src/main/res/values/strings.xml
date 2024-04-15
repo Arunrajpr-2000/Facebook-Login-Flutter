@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">flutter_login_app_vithamas</string>
+    <string name="facebook_app_id">1154987082183194</string>
+    <string name="fb_login_protocol_scheme">fb1154987082183194</string>
+    <string name="facebook_client_token">d479278063b1d6fb1683ea2f34405063</string>
+</resources>
